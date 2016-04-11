@@ -1,0 +1,5 @@
+java -jar Blockchain5.jar 8080 0 e: 60 10
+java -jar Blockchain5.jar 8081 1 e: 700 100
+java -jar Blockchain5.jar 8082 2 e: 800 200
+java -jar Blockchain5.jar 8083 3 e: 2000 1000
+java -jar Blockchain5.jar 8084 4 e: 20000 10000
